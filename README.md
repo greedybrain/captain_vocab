@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Open your terminal and type the following:
+
+    $ captain_vocab
 
 ## Development
 
